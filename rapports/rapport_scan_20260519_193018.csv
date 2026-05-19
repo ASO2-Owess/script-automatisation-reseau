@@ -1,0 +1,4 @@
+Date,Machine,Role,IP,Ping,Port,Service,Etat
+2026-05-19 19:30:13,Serveur Ubuntu,Serveur interne,10.132.153.237,OK,22,SSH,OUVERT
+2026-05-19 19:30:13,Poste Windows 10,Poste client,10.132.153.182,OK,3389,RDP,FERME
+2026-05-19 19:30:13,Machine Kali,Poste analyse,10.132.153.71,OK,Aucun,Non defini,Non teste
